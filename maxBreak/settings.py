@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-^@u^8k181ex3h!gya)hkn60w)%-5m#0ipf&e^pzy2*^qdop&g*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['10.0.2.2', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['10.0.2.2', '127.0.0.1', 'localhost','snookerapp-server-production.up.railway.app']
 
 # Application definition
 
